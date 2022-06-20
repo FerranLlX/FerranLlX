@@ -1,3 +1,26 @@
+### Hola 👋, asdf
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Habilidades: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 Estoy trabajando en this page.asdf 
+- 🌱 Estoy aprendiendo asdf 
+- 👯 Quiero colaborar con asdf 
+- 🤔 Necesito ayuda con asdf 
+- 💬 Pregúntame acerca de asdf 
+- 📫 Cómo contactarme: asdf 
+- 😄 Pronombres: asdf 
+- ⚡ Dato curioso: asdf 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FerranLlX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](asdf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](asdf)  
+
+
+
+
 <h1>Hello 👋</h1>
 
 I'm Ferran (he/him)🧔.
