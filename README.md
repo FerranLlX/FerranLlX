@@ -1,15 +1,5 @@
 <h1>Hello 👋</h1>
 
-- 🔭 I’m currently working on **asdf**
-
-- 👯 I’m looking to collaborate on **asdf**
-
-- 🤝 I’m looking for help with **asdf**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
