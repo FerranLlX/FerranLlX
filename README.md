@@ -1,7 +1,6 @@
 <h1>Hello 👋</h1>
 
 I'm Ferran (he/him)🧔.
-
 🕹 Game developer.
 
 
