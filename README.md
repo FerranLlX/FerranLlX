@@ -2,6 +2,7 @@
 
 I'm Ferran (he/him)🧔.
 
+👨‍💻 Programmer.
 🕹 Game developer.
 
 
